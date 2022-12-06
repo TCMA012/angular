@@ -1,0 +1,12 @@
+RealWorld solves this by allowing you to choose any frontend (React, Angular, & more) and any backend (Node, Django, & more) and see how they power a real-world, beautifully designed full-stack app called Conduit.
+https://codebase.show/projects/realworld
+https://github.com/gothinkster/realworld
+https://github.com/gothinkster/angular-realworld-example-app
+
+https://angular.realworld.io/
+
+live API server running at 
+https://conduit.productionready.io/api for the application to make requests against
+
+
+https://github.com/nartc/ng-conduit
