@@ -1,0 +1,10 @@
+running 
+ng update @angular/material
+, the schematic replaces all your material import with « Mat…LegacyModule », so nothing changes. When running the migration schematic after that, it gives you the opportunity to migrate all components at once, or component by component.
+
+seems you upgraded manually instead of using Ng update. When you run 
+Ng update it changes imports to legacy imports so all your previous components are untouched and you don't need anything additional. Then you can manually or via schematic change old imports to new imports.
+
+=
+
+I would do everything new with Standalone and start the migration from top to bottom, whereas top would be smart components and then slowly dumb components... So first the components which are not used a lot by other components (which should be smart components).

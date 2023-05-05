@@ -1,0 +1,27 @@
+https://angular.io/guide/setup-local
+
+https://v13.angular.io/guide/setup-local
+
+https://github.com/angular/angular-cli/releases
+
+Install the Angular CLI
+
+npm install -g @angular/cli
+
+npm install -g @angular/cli@wished.version.here
+npm install -g @angular/cli@13.3
+
+
+npm uninstall -g @angular/cli
+
+
+ng v
+
+Angular CLI: 15.2.7
+Node: 16.15.1
+Package Manager: npm 9.1.2
+OS: linux x64
+
+
+
+npm install --save-dev @angular-devkit/build-angular

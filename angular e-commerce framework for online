@@ -1,0 +1,21 @@
+angular e-commerce framework for online store
+Open Source E-Commerce Framework
+https://github.com/aviabird/angularspree
+www.aviacommerce.org
+Postgres
+ElasticSearch
+Kibana
+angular 14.0.6
+"rxjs": "~6.5.3"
+"@ngrx/store": "^10.0.1"
+AngularSpree is an Angular e-commerce application.
+
+It is a plug and play frontend application for AviaCommerce API built using Angular, Redux, Observables & ImmutableJs.
+
+It is not limited to aviacommerce and can also be used with any e-commerce solution with an api interface. Such as spreecommerce, magento, opencart etc.
+
+
+
+https://www.aviacommerce.org/docs/frontend-install.html
+
+https://www.aviacommerce.org/docs/backend-install.html

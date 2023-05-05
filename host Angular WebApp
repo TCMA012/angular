@@ -1,0 +1,21 @@
+host Angular WebApp
+https://pages.github.com/
+username.github.io
+
+If you're just interested in deploying the webapp, you can use any service that lets you publish static websites.
+
+Netlify has already been mentioned and is a great choice (I actually host a couple apps through Netlify). Here is some documentation on Angular + Netlify integration: https://docs.netlify.com/integrations/frameworks/angular/
+
+You can also use Github Pages or Gitlab Pages if you host your repository on one of these services.
+
+They key here is that Angular builds your app into a bunch of static files. When you push new code to your repository, Netlify/Github/Gitlab will execute the build command to produce these files and deploy them.
+
+=
+
+deploy it to Firebase
+
+Every cloud service is giving a free tier option
+
+
+
+https://unravelweb.dev/2020/06/26/angular-web-app-on-azure-static-web-apps/

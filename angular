@@ -1,0 +1,49 @@
+angular blog
+angular.io
+
+
+
+https://github.com/angular/angular/tree/main/packages/examples
+
+
+https://angular.io/api/common/AsyncPipe
+https://angular.io/api/core/Directive#host
+https://angular.io/api/forms/FormGroupName
+https://angular.io/api/router/Event
+https://angular.io/api/router/Router
+
+
+
+Angular DevTools is a browser extension that provides debugging and profiling capabilities for Angular applications.
+https://angular.io/guide/devtools
+
+
+
+https://angular.io/guide/lifecycle-hooks
+https://angular.io/guide/practical-observable-usage
+https://angular.io/guide/reactive-forms
+https://angular.io/guide/router
+https://angular.io/guide/router-tutorial
+https://angular.io/guide/router-tutorial-toh
+https://angular.io/guide/rx-library
+https://angular.io/guide/observables-in-angular
+https://angular.io/guide/styleguide
+https://angular.io/guide/test-debugging
+https://angular.io/guide/testing-pipes
+https://angular.io/guide/testing-services
+
+
+
+? https://angular.io/guide/Testing
+
+
+
+https://blog.angular.io/
+https://update.angular.io/
+https://material.angular.io
+
+
+
+An in-memory web api for Angular demos and tests that emulates CRUD operations over a RESTy API.
+It intercepts Angular Http and HttpClient requests that would otherwise go to the remote server and redirects them to an in-memory data store that you control.
+https://github.com/angular/angular/tree/main/packages/misc/angular-in-memory-web-api
