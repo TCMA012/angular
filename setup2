@@ -1,0 +1,11 @@
+https://angular.io/guide/setup-local
+
+npm install -g @angular/cli
+
+
+ng v
+
+Angular CLI: 17.0.0
+Node: 20.9.0
+Package Manager: npm 10.1.0
+OS: linux x64
