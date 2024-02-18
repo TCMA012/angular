@@ -1,0 +1,19 @@
+https://codelabs.developers.google.com/angular-a11y?hl=en#0
+Build more accessible Angular apps
+https://github.com/googlecodelabs/angular-accessibility
+v14
+Emma Twersky
+
+
+
+https://codelabs.developers.google.com/angular-signals?hl=en#0
+Getting started with Angular Signals
+https://github.com/angular/codelabs/tree/signals-get-started
+Emma Twersky
+
+
+
+https://developers.google.com/codelabs/angular-slider-element?hl=en#0
+Building an image-slider element using Angular
+guest author Aayush Arora
+Angular Elements are Angular Components packaged as custom elements. They are currently supported by Chrome, Opera and Safari and are available in other browsers through polyfills. 
